@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AA/Desktop/Android Touch Position/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/AA/Desktop/Android Touch Position/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae9891a88e057b7acdf8e4bfb78f58eee8258a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AA/Desktop/Android Touch Position/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2059b82fbd8be055b0109468929810272454ba96">
+        <dex dex="/Users/AA/Desktop/Android Touch Position/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eecce58dec4f9f7684690eb521d686b6985b3621/classes.dex" />
+    </item>
+
+</items>
